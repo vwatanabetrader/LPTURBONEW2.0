@@ -1,0 +1,14 @@
+                    <div class="w-full mt-6 text-sm text-left text-neutral-200 space-y-3 animate-fadeIn">
+                        <p class="font-semibold text-center mb-1">
+                            O que você vai receber:
+                        </p>
+
+                        <ul class="space-y-1 transition-all duration-300 hover:opacity-90">
+                            <li>✨ Prompts prontos para conteúdo diário</li>
+                            <li>🎨 Templates editáveis e ideias virais</li>
+                            <li>⚡ Tutoriais rápidos e práticos</li>
+                            <li>🚀 Fluxo organizado para criar sem travar</li>
+                            <li>📘 Guia passo a passo completo</li>
+                            <li>💬 Suporte básico na plataforma</li>
+                        </ul>
+                    </div>
